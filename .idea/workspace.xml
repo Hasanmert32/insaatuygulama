@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5849b5ca-f6fc-45db-b63f-50f1fb5b7455" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/convertor-master/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TTNCABkK7c4Kz2DpMfwdoNpSBY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hicazson" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5849b5ca-f6fc-45db-b63f-50f1fb5b7455" name="Default Changelist" comment="" />
+      <created>1573479999017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573479999017</updated>
+      <workItem from="1573480013514" duration="34000" />
+      <workItem from="1576785449763" duration="12937000" />
+      <workItem from="1576841103454" duration="457000" />
+      <workItem from="1577226879413" duration="10000" />
+      <workItem from="1577552110502" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1577552148228">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1577552148228" />
+    <state x="517" y="299" key="NewPhpFileDialog" timestamp="1576791430503">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="299" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1576791430503" />
+    <state x="391" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1577552122268">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1600.0.1600.870@0.0.1366.738" timestamp="1577226883412" />
+    <state x="391" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1577552122268" />
+  </component>
+</project>
