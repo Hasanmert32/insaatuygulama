@@ -1,4 +1,4 @@
-# Mühendislikte Bilgisayar Uygulamarı Dersi Projesi
+# Mühendislikte Bilgisayar Uygulamaları Dersi Projesi
 
 ### Projede Görev Alanlar
 
